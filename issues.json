@@ -296,6 +296,15 @@
         "description": "Something isn't working"
       },
       {
+        "id": 3975347140,
+        "node_id": "LA_kwDOE4sDCM7s8vvE",
+        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/core",
+        "name": "core",
+        "color": "B5E0F5",
+        "default": false,
+        "description": "MDS core element"
+      },
+      {
         "id": 4544239464,
         "node_id": "LA_kwDOE4sDCM8AAAABDtuXaA",
         "url": "https://api.github.com/repos/Maersk-Global/mds/labels/dependencies",
@@ -321,7 +330,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-10-03T07:50:56Z",
-    "updated_at": "2022-10-03T07:53:38Z",
+    "updated_at": "2022-10-03T16:57:27Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
@@ -501,6 +510,15 @@
         "color": "E0280F",
         "default": true,
         "description": "Something isn't working"
+      },
+      {
+        "id": 3975347140,
+        "node_id": "LA_kwDOE4sDCM7s8vvE",
+        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/core",
+        "name": "core",
+        "color": "B5E0F5",
+        "default": false,
+        "description": "MDS core element"
       }
     ],
     "state": "open",
@@ -510,7 +528,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-30T13:07:32Z",
-    "updated_at": "2022-09-30T13:07:32Z",
+    "updated_at": "2022-10-03T16:55:15Z",
     "closed_at": null,
     "author_association": "NONE",
     "active_lock_reason": null,
@@ -541,7 +559,7 @@
     "id": 1392023641,
     "node_id": "I_kwDOE4sDCM5S-JhZ",
     "number": 882,
-    "title": "[Feature request] - Coomunity typeahead support for a display label",
+    "title": "[Feature request] - Community typeahead support for a display label",
     "user": {
       "login": "lukas-vismantas-maersk",
       "id": 93707831,
@@ -571,6 +589,15 @@
         "color": "C5E5C2",
         "default": true,
         "description": "New feature or request"
+      },
+      {
+        "id": 3975352470,
+        "node_id": "LA_kwDOE4sDCM7s8xCW",
+        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/community",
+        "name": "community",
+        "color": "FFDE74",
+        "default": false,
+        "description": "MDS community element"
       }
     ],
     "state": "open",
@@ -580,7 +607,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-30T08:03:57Z",
-    "updated_at": "2022-09-30T08:11:26Z",
+    "updated_at": "2022-10-03T16:56:38Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
@@ -641,6 +668,15 @@
         "color": "E0280F",
         "default": true,
         "description": "Something isn't working"
+      },
+      {
+        "id": 3975347140,
+        "node_id": "LA_kwDOE4sDCM7s8vvE",
+        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/core",
+        "name": "core",
+        "color": "B5E0F5",
+        "default": false,
+        "description": "MDS core element"
       }
     ],
     "state": "open",
@@ -650,7 +686,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-30T07:18:02Z",
-    "updated_at": "2022-09-30T07:18:02Z",
+    "updated_at": "2022-10-03T16:57:06Z",
     "closed_at": null,
     "author_association": "NONE",
     "active_lock_reason": null,
