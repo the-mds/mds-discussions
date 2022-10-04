@@ -165,7 +165,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-10-03T14:29:47Z",
-    "updated_at": "2022-10-03T14:38:06Z",
+    "updated_at": "2022-10-04T05:14:40Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
@@ -303,24 +303,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4544239464,
-        "node_id": "LA_kwDOE4sDCM8AAAABDtuXaA",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/dependencies",
-        "name": "dependencies",
-        "color": "0366d6",
-        "default": false,
-        "description": "Pull requests that update a dependency file"
-      },
-      {
-        "id": 4607195842,
-        "node_id": "LA_kwDOE4sDCM8AAAABEpw6wg",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/security",
-        "name": "security",
-        "color": "EB6404",
-        "default": false,
-        "description": "Issues with security aspect"
       }
     ],
     "state": "open",
@@ -330,7 +312,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-10-03T07:50:56Z",
-    "updated_at": "2022-10-03T16:57:27Z",
+    "updated_at": "2022-10-04T05:27:34Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
@@ -449,7 +431,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-10-03T07:25:26Z",
-    "updated_at": "2022-10-03T09:39:09Z",
+    "updated_at": "2022-10-04T05:15:04Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
@@ -1448,15 +1430,6 @@
         "color": "FFDE74",
         "default": false,
         "description": "MDS community element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -1466,7 +1439,7 @@
     "milestone": null,
     "comments": 1,
     "created_at": "2022-09-05T18:25:24Z",
-    "updated_at": "2022-09-13T08:41:26Z",
+    "updated_at": "2022-10-04T05:15:49Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -1536,15 +1509,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -1554,7 +1518,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T17:20:18Z",
-    "updated_at": "2022-09-05T17:20:18Z",
+    "updated_at": "2022-10-04T05:16:03Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -1617,13 +1581,13 @@
         "description": "New feature or request"
       },
       {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
+        "id": 3975347140,
+        "node_id": "LA_kwDOE4sDCM7s8vvE",
+        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/core",
+        "name": "core",
+        "color": "B5E0F5",
         "default": false,
-        "description": "Component based"
+        "description": "MDS core element"
       }
     ],
     "state": "open",
@@ -1671,9 +1635,9 @@
       }
     ],
     "milestone": null,
-    "comments": 1,
+    "comments": 2,
     "created_at": "2022-09-05T14:04:25Z",
-    "updated_at": "2022-09-09T10:04:19Z",
+    "updated_at": "2022-10-04T05:18:43Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -1743,25 +1707,56 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
     "locked": false,
-    "assignee": null,
-    "assignees": [],
+    "assignee": {
+      "login": "ste-brennan-maersk",
+      "id": 70192035,
+      "node_id": "MDQ6VXNlcjcwMTkyMDM1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70192035?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ste-brennan-maersk",
+      "html_url": "https://github.com/ste-brennan-maersk",
+      "followers_url": "https://api.github.com/users/ste-brennan-maersk/followers",
+      "following_url": "https://api.github.com/users/ste-brennan-maersk/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ste-brennan-maersk/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ste-brennan-maersk/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ste-brennan-maersk/subscriptions",
+      "organizations_url": "https://api.github.com/users/ste-brennan-maersk/orgs",
+      "repos_url": "https://api.github.com/users/ste-brennan-maersk/repos",
+      "events_url": "https://api.github.com/users/ste-brennan-maersk/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ste-brennan-maersk/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "assignees": [
+      {
+        "login": "ste-brennan-maersk",
+        "id": 70192035,
+        "node_id": "MDQ6VXNlcjcwMTkyMDM1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/70192035?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ste-brennan-maersk",
+        "html_url": "https://github.com/ste-brennan-maersk",
+        "followers_url": "https://api.github.com/users/ste-brennan-maersk/followers",
+        "following_url": "https://api.github.com/users/ste-brennan-maersk/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ste-brennan-maersk/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ste-brennan-maersk/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ste-brennan-maersk/subscriptions",
+        "organizations_url": "https://api.github.com/users/ste-brennan-maersk/orgs",
+        "repos_url": "https://api.github.com/users/ste-brennan-maersk/repos",
+        "events_url": "https://api.github.com/users/ste-brennan-maersk/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ste-brennan-maersk/received_events",
+        "type": "User",
+        "site_admin": false
+      }
+    ],
     "milestone": null,
-    "comments": 0,
+    "comments": 1,
     "created_at": "2022-09-05T14:02:49Z",
-    "updated_at": "2022-09-09T09:45:24Z",
+    "updated_at": "2022-10-04T05:18:20Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -1831,15 +1826,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -1887,9 +1873,9 @@
       }
     ],
     "milestone": null,
-    "comments": 0,
+    "comments": 1,
     "created_at": "2022-09-05T14:00:44Z",
-    "updated_at": "2022-09-09T09:43:00Z",
+    "updated_at": "2022-10-04T05:19:09Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -2098,15 +2084,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -2116,7 +2093,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T13:57:48Z",
-    "updated_at": "2022-09-05T13:57:48Z",
+    "updated_at": "2022-10-04T05:19:24Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -2186,15 +2163,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -2204,7 +2172,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T13:54:48Z",
-    "updated_at": "2022-09-05T13:54:55Z",
+    "updated_at": "2022-10-04T05:19:31Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -2267,13 +2235,13 @@
         "description": "New feature or request"
       },
       {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
+        "id": 3975352470,
+        "node_id": "LA_kwDOE4sDCM7s8xCW",
+        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/community",
+        "name": "community",
+        "color": "FFDE74",
         "default": false,
-        "description": "Component based"
+        "description": "MDS community element"
       },
       {
         "id": 4499828351,
@@ -2292,7 +2260,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T13:53:56Z",
-    "updated_at": "2022-09-09T09:16:10Z",
+    "updated_at": "2022-10-04T05:20:03Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -2310,94 +2278,6 @@
       "eyes": 0
     },
     "timeline_url": "https://api.github.com/repos/Maersk-Global/mds/issues/806/timeline",
-    "performed_via_github_app": null,
-    "state_reason": null
-  },
-  {
-    "url": "https://api.github.com/repos/Maersk-Global/mds/issues/805",
-    "repository_url": "https://api.github.com/repos/Maersk-Global/mds",
-    "labels_url": "https://api.github.com/repos/Maersk-Global/mds/issues/805/labels{/name}",
-    "comments_url": "https://api.github.com/repos/Maersk-Global/mds/issues/805/comments",
-    "events_url": "https://api.github.com/repos/Maersk-Global/mds/issues/805/events",
-    "html_url": "https://github.com/Maersk-Global/mds/issues/805",
-    "id": 1362017541,
-    "node_id": "I_kwDOE4sDCM5RLr0F",
-    "number": 805,
-    "title": "Label component with slot option",
-    "user": {
-      "login": "ste-brennan-maersk",
-      "id": 70192035,
-      "node_id": "MDQ6VXNlcjcwMTkyMDM1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/70192035?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/ste-brennan-maersk",
-      "html_url": "https://github.com/ste-brennan-maersk",
-      "followers_url": "https://api.github.com/users/ste-brennan-maersk/followers",
-      "following_url": "https://api.github.com/users/ste-brennan-maersk/following{/other_user}",
-      "gists_url": "https://api.github.com/users/ste-brennan-maersk/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/ste-brennan-maersk/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/ste-brennan-maersk/subscriptions",
-      "organizations_url": "https://api.github.com/users/ste-brennan-maersk/orgs",
-      "repos_url": "https://api.github.com/users/ste-brennan-maersk/repos",
-      "events_url": "https://api.github.com/users/ste-brennan-maersk/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/ste-brennan-maersk/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "labels": [
-      {
-        "id": 2641832501,
-        "node_id": "MDU6TGFiZWwyNjQxODMyNTAx",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/enhancement",
-        "name": "enhancement",
-        "color": "C5E5C2",
-        "default": true,
-        "description": "New feature or request"
-      },
-      {
-        "id": 3975347140,
-        "node_id": "LA_kwDOE4sDCM7s8vvE",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/core",
-        "name": "core",
-        "color": "B5E0F5",
-        "default": false,
-        "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
-      }
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [],
-    "milestone": null,
-    "comments": 0,
-    "created_at": "2022-09-05T13:51:48Z",
-    "updated_at": "2022-09-09T09:16:42Z",
-    "closed_at": null,
-    "author_association": "COLLABORATOR",
-    "active_lock_reason": null,
-    "body": "### Summary\r\n\r\nA custom label component that is used in all our form elements components (like: input, switch, radio, checkbox, etc.), where label can be passed as slot with more advanced html for passing icons or links.\r\n\r\nWould need to consider:\r\n\r\n- Accessibility when passing label as slot\r\n- Reusability - we should be able to reuse the same label component in all our form elements\r\n- How to integrate label in field set scenario with legend",
-    "reactions": {
-      "url": "https://api.github.com/repos/Maersk-Global/mds/issues/805/reactions",
-      "total_count": 0,
-      "+1": 0,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
-      "confused": 0,
-      "heart": 0,
-      "rocket": 0,
-      "eyes": 0
-    },
-    "timeline_url": "https://api.github.com/repos/Maersk-Global/mds/issues/805/timeline",
     "performed_via_github_app": null,
     "state_reason": null
   },
@@ -2538,15 +2418,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -2556,7 +2427,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T13:36:42Z",
-    "updated_at": "2022-09-09T09:17:02Z",
+    "updated_at": "2022-10-04T05:20:49Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -2626,15 +2497,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -2684,7 +2546,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T13:34:17Z",
-    "updated_at": "2022-09-09T09:43:53Z",
+    "updated_at": "2022-10-04T05:21:02Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -2754,15 +2616,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -2772,7 +2625,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T13:28:26Z",
-    "updated_at": "2022-09-05T13:42:24Z",
+    "updated_at": "2022-10-04T05:21:21Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -2869,15 +2722,6 @@
         "color": "0073AB",
         "default": false,
         "description": "Design required"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -2987,7 +2831,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T13:25:15Z",
-    "updated_at": "2022-09-05T14:02:00Z",
+    "updated_at": "2022-10-04T05:21:43Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -3057,15 +2901,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -3075,7 +2910,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T13:20:10Z",
-    "updated_at": "2022-09-09T09:20:23Z",
+    "updated_at": "2022-10-04T05:21:55Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -3145,15 +2980,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -3163,7 +2989,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-09-05T13:17:30Z",
-    "updated_at": "2022-09-05T13:43:19Z",
+    "updated_at": "2022-10-04T05:22:03Z",
     "closed_at": null,
     "author_association": "COLLABORATOR",
     "active_lock_reason": null,
@@ -5367,15 +5193,6 @@
         "color": "C5E5C2",
         "default": true,
         "description": "New feature or request"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -5385,7 +5202,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-08-25T06:58:46Z",
-    "updated_at": "2022-09-05T13:48:06Z",
+    "updated_at": "2022-10-04T05:22:17Z",
     "closed_at": null,
     "author_association": "NONE",
     "active_lock_reason": null,
@@ -5455,15 +5272,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -5471,9 +5279,9 @@
     "assignee": null,
     "assignees": [],
     "milestone": null,
-    "comments": 8,
+    "comments": 9,
     "created_at": "2022-08-24T13:57:41Z",
-    "updated_at": "2022-09-22T09:44:13Z",
+    "updated_at": "2022-10-04T05:24:02Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
@@ -5543,15 +5351,6 @@
         "color": "FFDE74",
         "default": false,
         "description": "MDS community element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -5601,7 +5400,7 @@
     "milestone": null,
     "comments": 2,
     "created_at": "2022-08-18T12:10:34Z",
-    "updated_at": "2022-09-29T07:38:48Z",
+    "updated_at": "2022-10-04T05:24:27Z",
     "closed_at": null,
     "author_association": "NONE",
     "active_lock_reason": null,
@@ -5680,15 +5479,6 @@
         "color": "0CA0CE",
         "default": false,
         "description": "Dev required"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -5698,7 +5488,7 @@
     "milestone": null,
     "comments": 1,
     "created_at": "2022-08-02T14:16:13Z",
-    "updated_at": "2022-09-09T09:24:04Z",
+    "updated_at": "2022-10-04T05:25:16Z",
     "closed_at": null,
     "author_association": "NONE",
     "active_lock_reason": null,
@@ -5768,15 +5558,6 @@
         "color": "B5E0F5",
         "default": false,
         "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -5826,7 +5607,7 @@
     "milestone": null,
     "comments": 5,
     "created_at": "2022-07-21T18:54:59Z",
-    "updated_at": "2022-09-15T08:55:43Z",
+    "updated_at": "2022-10-04T05:25:32Z",
     "closed_at": null,
     "author_association": "NONE",
     "active_lock_reason": null,
@@ -5887,24 +5668,6 @@
         "color": "C5E5C2",
         "default": true,
         "description": "New feature or request"
-      },
-      {
-        "id": 3975347140,
-        "node_id": "LA_kwDOE4sDCM7s8vvE",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/core",
-        "name": "core",
-        "color": "B5E0F5",
-        "default": false,
-        "description": "MDS core element"
-      },
-      {
-        "id": 4499776479,
-        "node_id": "LA_kwDOE4sDCM8AAAABDDUj3w",
-        "url": "https://api.github.com/repos/Maersk-Global/mds/labels/components",
-        "name": "components",
-        "color": "AAEAE0",
-        "default": false,
-        "description": "Component based"
       }
     ],
     "state": "open",
@@ -5914,7 +5677,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2022-06-28T07:42:44Z",
-    "updated_at": "2022-09-09T09:24:35Z",
+    "updated_at": "2022-10-04T05:26:35Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
